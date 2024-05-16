@@ -13,9 +13,16 @@ O Arduino também desempenha um papel importante na temporização do tempo que 
 
 Este projeto visa não apenas ensinar conceitos de geometria e resolução de problemas, mas também promover a criatividade, a colaboração e o pensamento crítico entre os alunos.
 
-### Esquema Arduino - Tinkercad
+### Esquema Arduino - Tinkercad 01
 ![Grand Bojo-Fyyran (2)](https://github.com/beatrizrodrgss/projeto-tangram-aranoua/assets/111823934/49607bcb-d45a-499d-ac0a-858d52700ee4)
 
 ### Vídeo Arduino - Tinkercad
 https://github.com/beatrizrodrgss/projeto-tangram-aranoua/assets/111823934/e01c3100-2f1b-4eb9-8b63-4f0aa2c1fef0
+
+### Esquema Arduino - Tinkercad 02
+![TANGRAM - ARANOUÁ _ REFATORADO (1)](https://github.com/beatrizrodrgss/projeto-tangram-aranoua/assets/111823934/f5d795c8-6e91-4ab4-a17f-4272ccf315c8)
+
+### Vídeo Arduino - Tinkercad
+https://github.com/beatrizrodrgss/projeto-tangram-aranoua/assets/111823934/be7556c2-8862-441f-a2b0-f96e3d430790
+
 
