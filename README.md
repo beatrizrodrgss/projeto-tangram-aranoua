@@ -27,4 +27,8 @@ https://github.com/beatrizrodrgss/projeto-tangram-aranoua/assets/111823934/e01c3
 ### Vídeo Arduino - Tinkercad 02
 https://github.com/beatrizrodrgss/projeto-tangram-aranoua/assets/111823934/be7556c2-8862-441f-a2b0-f96e3d430790
 
+-----------------------------------------------------------------------------------------------------------------
+
+### II Mostra de Projetos da Formação Educadores do Século 21
+https://www.instagram.com/p/C7mp3Civ6Gm/
 
